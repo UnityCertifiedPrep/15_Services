@@ -32,6 +32,3 @@
 + Examine the features of Unity Cloud Build.
 + Setting up a build target for mobile.
 + How to connect to Cloud Build to GitHub.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
