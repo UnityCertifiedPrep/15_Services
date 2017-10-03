@@ -1,25 +1,25 @@
-### Section Introduction:  Unity Services ###
+### 1 Section Introduction:  Unity Services ###
 
 + This section covers the integrated web services.
 + Monetizing with ads and analytics.
 + Overview of the new collaborate Beta.
 + Building for many platforms in the cloud.
 
-### Ads ###
+### 2 Ads ###
 
 + Differentiate Unity services by a set of features.
 + Recognise Unity services from a description.
 + Link your project to a Unity service ID.
 + Simple vs Rewarded advertising.
 
-### Analytics ###
+### 3 Analytics ###
 
 + Differentiate Unity services by a set of features.
 + Recognise Unity services from a description.
 + Link your project to a Unity service ID.
 + Simple vs Rewarded advertising.
 
-### Collaborate ###
+### 4 Collaborate ###
 
 + Describe the requirements for Unity Collaborate.
 + The motivation for Version Control.
@@ -27,7 +27,7 @@
 + Understanding how Version Control works.
 + Staging, committing and pushing with Git.
 
-### Cloud Build ###
+### 5 Cloud Build ###
 
 + Examine the features of Unity Cloud Build.
 + Setting up a build target for mobile.
